@@ -19,4 +19,4 @@ Another experiment by
 [Juan José Vidal](https://twitter.com/#!/j2vidal) and
 [Fernando Guillen](http://fernandoguillen.info).
 
-Check and reuse the (code)[#].
+Check and reuse the [code](https://github.com/fguillen/FixedBudgetCalculator).
