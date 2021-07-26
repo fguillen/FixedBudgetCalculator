@@ -3,7 +3,7 @@
 Describe your specifications in the form and let our intelligent real time algorithm
 to offer you an accurate budget estimation.
 
-[Demo page](http://fguillen.github.com/FixedBudgetCalculator/)
+[Demo page](https://fguillen.github.io/FixedBudgetCalculator/)
 
 ## Seriously
 
